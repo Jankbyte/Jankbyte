@@ -2,7 +2,6 @@
 ## :calling: Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazbo)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jankbyte)
-[![Vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](http://vk.com/jankbyte)
 [![Gmail](https://img.shields.io/badge/%20bytec0d3@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=black&color=black)](mailto:6ytec0d3@gmail.com)
 ## :mortar_board: My stack and knowledge
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
