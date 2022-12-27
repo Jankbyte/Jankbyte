@@ -6,7 +6,7 @@
 ## Contact me
 <p>
   <a href="https://t.me/jankbyte">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logoColor=white&style=for-the-badge">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logoColor=white&style=for-the-badge" />
   </a>
 </p>
 ## About me
