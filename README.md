@@ -4,4 +4,4 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ## About me
-Hello! My name is Andrey, im proffessional backend developer and currently student of Tver State Technical University :RU. My faculty is applied computer science and programming.
+Hello! My name is Andrey, im proffessional backend developer and currently student of Tver State Technical University :ru:. My faculty is applied computer science and programming.
