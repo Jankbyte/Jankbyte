@@ -6,4 +6,4 @@
 ## About me
 Hello! My name is Andrey, im proffessional backend developer and currently student of Tver State Technical University :ru:. My faculty is applied computer science and programming.
 ## My languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankbyte)](https://github.com/anuraghazra/github-readme-stats)
