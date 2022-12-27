@@ -8,6 +8,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## :clipboard: About me
 Hello! My name is Andrey, im proffessional <b>backend</b> developer and currently student of <b>Tver State Technical University</b> :ru:. My faculty is applied <b>computer science and programming</b>. \
 In my free time i love codding my <b>Pet projects</b> or training with [Code wars](https://www.codewars.com/users/Jankbyte). My favorite programming language is <b>Java</b>, but i also knows <b>JavaScript</b> (with HTML and CSS) and used that in my WEB-application projects.
