@@ -5,5 +5,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ## About me
 Hello! My name is Andrey, im proffessional backend developer and currently student of <b>Tver State Technical University</b> :ru:. My faculty is applied <b>computer science and programming</b>.
-## Programming languages that i use
+## Programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankbyte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
