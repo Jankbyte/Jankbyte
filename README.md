@@ -11,6 +11,6 @@ In my free time i love codding my <b>Pet projects</b> or training with [Code war
 ## Contact me
 <p>
   <a href="https://t.me/jankbyte">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logoColor=white&style=for-the-badge" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logoColor=white&style=for-the-badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
