@@ -9,4 +9,4 @@ In my free time i love codding my <b>Pet projects</b> or training with [Code war
 ## Programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankbyte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact me
-[![Telegram](link to image on GH)](https://t.me/jankbyte)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jankbyte)
