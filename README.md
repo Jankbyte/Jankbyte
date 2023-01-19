@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70CE2&width=435&lines=Hi%2C+im+Andrey!)](https://git.io/typing-svg)
 ## :calling: Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazbo)
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18824568/jankbyte)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jankbyte)
 [![Gmail](https://img.shields.io/badge/%20bytec0d3@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=black&color=black)](mailto:6ytec0d3@gmail.com)
 ## :mortar_board: My stack and knowledge
