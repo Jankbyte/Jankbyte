@@ -12,8 +12,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## :clipboard: About me
-Hello! My name is Andrey, im proffessional <b>backend</b> developer and currently student of <b>Tver State Technical University</b> :ru:. My faculty is applied <b>computer science and programming</b>. \
-In my free time i love codding my <b>Pet projects</b> or training with [Code wars](https://www.codewars.com/users/Jankbyte). My favorite programming language is <b>Java</b>, but i also knows <b>JavaScript</b> (with HTML and CSS) and used that in my WEB-application projects.
+Hello! My name is Andrey, im proffessional backend Java developer.
+In my free time i love codding my <b>Pet projects</b> (for improve my coding/technologies knowledges skills) or training with [Code wars](https://www.codewars.com/users/Jankbyte). My favorite programming language is <b>Java</b>, but also i have expirience with <b>JavaScript/TypeScript</b> for creating frontend.
 ## :computer: Programming languages
 My programming langues statistic (just for page beauty :sunglasses:): \
 \
