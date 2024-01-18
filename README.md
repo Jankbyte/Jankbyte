@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazbo)
 [![Gmail](https://img.shields.io/badge/%20andrey.jankowski2001@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=black&color=black)](mailto:andrey.jankowski2001@gmail.com)
 ## :clipboard: About me
-Hello, my name is Andrey! Im proffessional <b>backend software developer</b>.
-In my free time i love codding my <b>Pet projects</b> (for improve my coding and technologies knowledges skills). My favorite programming language is <b>Java</b>, but also have expirience with <b>JavaScript/TypeScript</b> for creating frontend.
+Im proffessional <b>backend software developer</b>.
+In my free time love codding my <b>Pet projects</b> (for improve my coding and technologies knowledges skills). My favorite programming language is <b>Java</b>, but also have expirience with <b>JavaScript/TypeScript</b> for creating frontend.
 ## :computer: Programming languages
 My programming langues statistic (just for page beauty :sunglasses:): \
 \
