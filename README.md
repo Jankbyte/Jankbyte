@@ -9,5 +9,3 @@ In my free time i love codding my <b>Pet projects</b> (for improve my coding and
 My programming langues statistic (just for page beauty :sunglasses:): \
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankbyte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## Codewars badge:
-![image](https://www.codewars.com/users/Jankbyte/badges/large)
