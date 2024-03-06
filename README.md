@@ -5,7 +5,4 @@
 ## :clipboard: About me
 Im proffessional <b>backend software developer</b>.
 In my free time love codding my <b>Pet projects</b> (for improve my coding and technologies knowledges skills). My favorite programming language is <b>Java</b>, but also have expirience with <b>JavaScript/TypeScript</b> for creating frontend.
-## :computer: Programming languages
-My programming langues statistic (just for page beauty :sunglasses:): \
-\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankbyte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
